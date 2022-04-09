@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Omar</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="spYears">
+        <item>Please Select your current year</item>
+        <item>First Year</item>
+        <item>SecondYear</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+        <item>Fifth Year</item>
+    </string-array>
+</resources>
